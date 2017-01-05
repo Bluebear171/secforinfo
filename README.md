@@ -17,3 +17,5 @@ A library to record all the post in [電腦安全與鑑證資訊Security & Digit
 2. 2017年，15個可以讓你練習自己黑客技巧的網站。
 3. 認識MAC times.
 4. Have I been pwned?
+5. 中了勒索軟體Globe3不用慌! Emsisoft釋出免費解碼工具
+6. IoT物聯網安全趨勢

@@ -1,0 +1,24 @@
+Emsisoft再度在對抗勒索軟件有新突破。
+Globe3是在今年1月被發現的抗勒索軟件。它與以往的Globe和Globe2勒索軟件不一樣，它採用的是AES-256的加密演算法來封鎖受害者的檔案，比起Globe用的Blowfish加密演算法以及Glbe2的RC4與RC4+XOR加密演算法還要來得更難被解密。
+
+受害者只要見到自己文件的Extention Name是.decrypt2017或.hnumkhotep，就能知道自己中了這個勒索軟體。
+
+這時候你可以根據以下提供的一些方法去取回你原來的一切文件。
+1.[Globe3的Decrypter](https://decrypter.emsisoft.com/download/globe3)
+2.[Globe2的Decrypter](https://decrypter.emsisoft.com/download/globe2)
+3.[Globe的Decrypter](https://decrypter.emsisoft.com/download/globe)
+4.[其他Emsisoft提供的Decrypter下載地址](https://decrypter.emsisoft.com/)
+
+詳細使用Globe3 Decrypter的[教程](https://decrypter.emsisoft.com/howtos/emsisoft_howto_globe3.pdf)
+
+額外資訊：
+歐洲防止資訊犯罪中心成立的[No More Ransom](https://www.nomoreransom.org/index.html)
+網站裡面提供了很多關於勒索軟體的資訊以及解救方法。
+
+想尋找其他勒索軟體的Decrypter，可到[這裡](https://www.barkly.com/ransomware-recovery-decryption-tools-search)
+
+想提早方防範勒索軟體？由Cybereason團隊製作出來的RansomFree可以幫到你。這個軟體能檢測到勒索軟體的特性，並且第一時間阻止你文件被勒索軟體被加密。
+
+[下載](https://ransomfree.cybereason.com/download/)
+
+#資安工具介紹🔑
